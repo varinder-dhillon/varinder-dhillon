@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varinder Dhillom</h1>
+<h1 align="center">Hi 👋, I'm Varinder Dhillon</h1>
 <h3 align="center">Passionate about building modern web apps | Leveling up in backend dev | Web3-curious and always learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varinder-dhillon&label=Profile%20views&color=0e75b6&style=flat" alt="varinder-dhillon" /> </p>
