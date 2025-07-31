@@ -35,7 +35,55 @@
   <a href="https://instagram.com/dhillxn_binni" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
+#### 👨‍💻 Frontend
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
+![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)  
+![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)  
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)  
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)  
+![Materialize](https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg)  
+![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
+
+#### 🧠 Backend
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)  
+![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)  
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  
+![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)  
+![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
+
+#### 🗄️ Databases
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)  
+![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
+
+#### ⚙️ DevOps & Tools
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)  
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)  
+![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)  
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)  
+![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)  
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)  
+![Amplify](https://docs.amplify.aws/assets/logo-dark.svg)  
+![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)
+
+#### 🧪 Testing & Build Tools
+![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)  
+![Webpack](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg)  
+![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)
+
+#### 📝 Languages & Others
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
+![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)  
+![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
+
 
 <!-- Already optimized icons section, no changes needed -->
 
