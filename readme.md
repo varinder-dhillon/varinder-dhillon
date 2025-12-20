@@ -18,7 +18,9 @@
 </p>
 
 <p align="center">
-    [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6402216)](https://tryhackme.com/p/your-username)
+  <a href="https://tryhackme.com/p/varinderdhillon.codes" target="_blank">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/varinderdhillon.codes.png" alt="Your Image Badge" />
+  </a>
 </p>
 
 
