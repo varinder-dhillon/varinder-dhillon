@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/varinderdhillon.code" target="_blank">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6402216" style='border:none;'></iframe>
+  </a>
+</p>
+
+
+
 ---
 
 - 🌱 I’m currently learning **Advanced Backend Development** (Node.js, PostgreSQL, TypeScript…)
