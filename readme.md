@@ -18,9 +18,7 @@
 </p>
 
 <p align="center">
-
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6402216" style='border:none;'></iframe>
-
+    [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6402216)](https://tryhackme.com/p/your-username)
 </p>
 
 
